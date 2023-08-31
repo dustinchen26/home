@@ -1,5 +1,7 @@
 # Dustin homepage
 
+https://dustinchen26.github.io/home
+
 ## Linkedin
 
 https://www.linkedin.com/in/dustin0206 
