@@ -7,13 +7,14 @@ https://dustinchen26.github.io/home
 https://www.linkedin.com/in/dustin0206 
 
 ## Project
+
 1
 
 ssb_calculate_basic
 
 https://github.com/dustinchen26/ssb_calculate
 
-https://dustinchen26.github.io/ssb_calculate/
+https://dustinchen26.github.io/ssb_calculate
 
 2
 
@@ -21,7 +22,7 @@ ssb_calculator_advance
 
 https://github.com/dustinchen26/ssb_calculator_advance
 
-https://dustinchen26.github.io/ssb_calculator_advance/
+https://dustinchen26.github.io/ssb_calculator_advance
 
 3
 
@@ -53,7 +54,7 @@ RA_RNTI
 
 https://github.com/dustinchen26/RA_RNTI
 
-https://dustinchen26.github.io/RA_RNTI/
+https://dustinchen26.github.io/RA_RNTI
 
 7
 
@@ -69,7 +70,7 @@ MeasurementReport
 
 https://github.com/dustinchen26/RSRP_RSRQ_SINR
 
-https://dustinchen26.github.io/RSRP_RSRQ_SINR/
+https://dustinchen26.github.io/RSRP_RSRQ_SINR
 
 9
 
@@ -109,7 +110,7 @@ NR_Tput
 
 https://github.com/dustinchen26/NR_Tput
 
-https://dustinchen26.github.io/NR_Tput/
+https://dustinchen26.github.io/NR_Tput
 
 14
 
@@ -117,15 +118,15 @@ nrCellId
 
 https://github.com/dustinchen26/nrCellId
 
-https://dustinchen26.github.io/nrCellId/
+https://dustinchen26.github.io/nrCellId
 
 15
 
 PCI
 
-https://github.com/dustinchen26/PCI/
+https://github.com/dustinchen26/PCI
 
-https://dustinchen26.github.io/PCI/
+https://dustinchen26.github.io/PCI
 
 16
 
@@ -133,7 +134,7 @@ slice
 
 https://github.com/dustinchen26/slice
 
-https://dustinchen26.github.io/slice/
+https://dustinchen26.github.io/slice
 
 17
 
@@ -149,15 +150,15 @@ parse_cu_Throughput
 
 https://github.com/dustinchen26/parse_cu
 
-https://dustinchen26.github.io/parse_cu/
+https://dustinchen26.github.io/parse_cu
 
 19
 
 IMSI
 
-https://github.com/dustinchen26/IMSI/
+https://github.com/dustinchen26/IMSI
 
-https://dustinchen26.github.io/IMSI/
+https://dustinchen26.github.io/IMSI
 
 20
 
@@ -165,7 +166,7 @@ S_criteria
 
 https://github.com/dustinchen26/S_criteria
 
-https://dustinchen26.github.io/S_criteria/
+https://dustinchen26.github.io/S_criteria
 
 21
 
@@ -173,7 +174,7 @@ PUSCH_power
 
 https://github.com/dustinchen26/PUSCH_power
 
-https://dustinchen26.github.io/PUSCH_power/
+https://dustinchen26.github.io/PUSCH_power
 
 22
 
@@ -181,7 +182,7 @@ PUCCH_power
 
 https://github.com/dustinchen26/PUCCH_power
 
-https://dustinchen26.github.io/PUCCH_power/
+https://dustinchen26.github.io/PUCCH_power
 
 23
 
@@ -189,7 +190,7 @@ PRACH_power
 
 https://github.com/dustinchen26/PRACH_power
 
-https://dustinchen26.github.io/PRACH_power/
+https://dustinchen26.github.io/PRACH_power
 
 24
 
@@ -246,4 +247,28 @@ parse_CSI
 https://github.com/dustinchen26/parse_CSI
 
 https://dustinchen26.github.io/parse_CSI
+
+31
+
+NR_Tput_advance
+
+https://github.com/dustinchen26/NR_Tput_advance
+
+https://dustinchen26.github.io/NR_Tput_advance
+
+32
+
+gscn_draw
+
+https://github.com/dustinchen26/gscn_draw
+
+https://dustinchen26.github.io/gscn_draw
+
+33
+
+bw_wireshark
+
+https://github.com/dustinchen26/bw_wireshark
+
+https://dustinchen26.github.io/bw_wireshark
 
