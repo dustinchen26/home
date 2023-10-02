@@ -62,13 +62,33 @@
       <strong>Linkedin</strong>
       <ul>
         <li>
-          <p><a href="https://www.linkedin.com/in/dustin0206"
-              target="_blank">https://www.linkedin.com/in/dustin0206</a>&nbsp;</p>
+          <a href="https://www.linkedin.com/in/dustin0206"
+              target="_blank">https://www.linkedin.com/in/dustin0206</a>
         </li>
       </ul>
-    </li>
+    </li><br>
     <li>
-      <strong>Project</strong>
+      <strong>NR feature development</strong>
+	    <ul>
+			<li>
+				NR CSI 
+			</li>			
+			<li>
+				adaptive DL MCS based on BLER & CSI
+			</li>				
+			<li>
+				adaptive UL MCS based on BLER & SINR
+			</li>	
+			<li>
+				PUCCH power control (ex: TPC Command for Scheduled PUCCH)
+			</li>
+			<li>
+				PUSCH closed loop power control (ex: TPC Command for Scheduled PUSCH)
+			</li>
+		</ul>	
+    </li><br>	
+    <li>
+      <strong>NR Tool development</strong>
     </li>
   </ul>
   <div class="table-container">
@@ -78,7 +98,7 @@
           <p style="margin-top: 0; margin-bottom: 0"><b>item</b></p>
         </td>
         <td>
-          <p style="margin-top: 0; margin-bottom: 0"><b>description</b></p>
+          <p style="margin-top: 0; margin-bottom: 0"><b>Tool description</b></p>
         </td>
         <td>
           <p style="margin-top: 0; margin-bottom: 0"><b>github</b></p>
@@ -750,30 +770,33 @@
     <li>
       <strong>developed the NR calculation tool, ex:</strong>
       <ul>
-        <li>NR ssb calculator: Input (band, carrierBw(RB), carrier_freq_low, carrier_freq_high, offsetToCarrier,
-          coreset0numRB, coreset0offsetRB), then it will calculate the valid (gscn /absFreqPointA /absArfcnPointA
-          /absFreqSsb /absArfcnSsb /dlEarfcn /nDlCenterFreq /Kssb /offsetToPointA )</li>
-        <li>NR freq RIV calculator</li>
-        <li>NR time SLIV calculator</li>
-        <li>NR RA_RNTI calculator</li>
-        <li>NR PUCCH resource index calculator</li>
-        <li>NR,LTE MeasurementReport RSRP/RSRQ/SINR Calculator</li>
-        <li>calcuate Qcom NV values for fixed NR bands</li>
-        <li>arfcn & freq calculator</li>
-        <li>Parse Qcom UeCapabilityInformation NR each band supported channelBWs</li>
-        <li>parse Compal du_status Tput_BLER_MCS</li>
-        <li>NR Throughput Calculator</li>
-        <li>NR nrCellId Calculator</li>
-        <li>NR PCI Calculator</li>
-        <li>NR Slicing sst / sd / sNSSAI calculator</li>
-        <li>automatically generate Compal du_xml ssb corresponding value</li>
-        <li>NR IMSI calculator</li>
-        <li>NR S criteria calculator</li>
-        <li>NR PUSCH power calculator</li>
-        <li>NR PUCCH power calculator</li>
-        <li>NR PRACH power calculator</li>
-        <li>parse compal du_status log Tput_BLER_MCS</li>
-        <li>parse compal cu_status log Throughput</li>
+        <li>NR gscn_calculator basic: Enter (band, carrierBw(RB), carrier_freq_low, carrier_freq_high), then it will calculate the valid (gscn, absFreqPointA, absArfcnPointA, absFreqSsb, absArfcnSsb, dlEarfcn, nDlCenterFreq, Kssb, offsetToPointA ) </li>
+        <li>NR gscn_calculator advance: Enter (band, carrierBw(RB), carrier_freq_low, carrier_freq_high, offsetToCarrier, coreset0numRB, coreset0offsetRB), then it will calculate the valid (gscn, absFreqPointA, absArfcnPointA, absFreqSsb, absArfcnSsb, dlEarfcn, nDlCenterFreq, Kssb, offsetToPointA )
+        <li>gscn_draw: Enter the (absFreqPointA, absFreqSsb, carrierBw(RB), nDlCenterFreq, Kssb, offsetToPointA, offsetToCarrier, coreset0RB, coreset0offset), then it will draw the ssb, CS0 and carrier. This tool help to check whether the CS0 is within the BWP.
+        <li>IMSI calculator </li>
+        <li>LTE / NR MeasurementReport RSRP, RSRQ, SINR actual value calculator </li>
+        <li>NR freq RIV calculator </li>
+        <li>NR time SLIV calculator </li>
+        <li>NR_Tput calculator </li>
+        <li>NR PCI calculator </li>
+        <li>NR PRACH_power calculator </li>
+        <li>RACH_Msg3_power </li>
+        <li>NR PUCCH_power calculator </li>
+        <li>NR PUSCH_power calculator </li>
+        <li>NR PUCCH resource index calculator </li>
+        <li>QXDM Paging ng-5G-S-TMSI Converter </li>
+        <li>Qcom fix_band NR value calculator </li>
+        <li>Qcom UeCapabilityInformation NR channelBWs parser </li>
+        <li>RA_RNTI calculator </li>
+        <li>S_criteria calculator </li>
+        <li>Wireshark supportedBandListNR Parser </li>
+        <li>dBm Watt converter </li>
+        <li>freq to arfcn </li>
+        <li>nrCellId calculator </li>
+        <li>Qcom [0xB896]CSI P1 Payload Parser </li>
+        <li>parse_cu_Throughput </li>
+        <li>parse_du_Tput_BLER_MCS </li>
+        <li>Network Slicing sst, sd, sNSSAI calculator </li>
       </ul>
     </li>
   </ul>

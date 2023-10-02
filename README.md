@@ -6,8 +6,7 @@ https://dustinchen26.github.io/home
 
 https://www.linkedin.com/in/dustin0206 
 
-## Project
-
+## NR Tool development
 1
 
 ssb_calculate_basic
@@ -26,7 +25,7 @@ https://dustinchen26.github.io/ssb_calculator_advance
 
 3
 
-ssb_xml
+ssb_xml_calculator
 
 https://github.com/dustinchen26/ssb_xml
 
@@ -34,7 +33,7 @@ https://dustinchen26.github.io/ssb_xml
 
 4
 
-NR freq RIV
+NR freq RIV calculator
 
 https://github.com/dustinchen26/RIV
 
@@ -42,7 +41,7 @@ https://dustinchen26.github.io/RIV
 
 5
 
-NR time SLIV
+NR time SLIV calculator
 
 https://github.com/dustinchen26/SLIV
 
@@ -50,7 +49,7 @@ https://dustinchen26.github.io/SLIV
 
 6
 
-RA_RNTI
+NR RA_RNTI calculator
 
 https://github.com/dustinchen26/RA_RNTI
 
@@ -58,7 +57,7 @@ https://dustinchen26.github.io/RA_RNTI
 
 7
 
-PUCCH resource index
+PUCCH resource index calculator
 
 https://github.com/dustinchen26/PUCCH
 
@@ -66,7 +65,7 @@ https://dustinchen26.github.io/PUCCH
 
 8
 
-MeasurementReport
+NR, LTE MeasurementReport calculator
 
 https://github.com/dustinchen26/RSRP_RSRQ_SINR
 
@@ -74,7 +73,7 @@ https://dustinchen26.github.io/RSRP_RSRQ_SINR
 
 9
 
-Qcom fix_band
+Qcom fix_band NV calculator
 
 https://github.com/dustinchen26/fix_band
 
@@ -82,7 +81,7 @@ https://dustinchen26.github.io/fix_band
 
 10
 
-freq to arfcn
+freq to arfcn calculator
 
 https://github.com/dustinchen26/arfcn
 
@@ -90,7 +89,7 @@ https://dustinchen26.github.io/arfcn
 
 11
 
-Qcom supported bw
+Qcom supported bw parser
 
 https://github.com/dustinchen26/bw
 
@@ -98,7 +97,7 @@ https://dustinchen26.github.io/bw
 
 12
 
-Tput_BLER_MCS_python
+parse_du_Tput_BLER_MCS
 
 https://github.com/dustinchen26/bler
 
@@ -106,7 +105,7 @@ https://github.com/dustinchen26/bler
 
 13
 
-NR_Tput
+NR throughput calculator
 
 https://github.com/dustinchen26/NR_Tput
 
@@ -114,7 +113,7 @@ https://dustinchen26.github.io/NR_Tput
 
 14
 
-nrCellId
+nrCellId calculator
 
 https://github.com/dustinchen26/nrCellId
 
@@ -122,7 +121,7 @@ https://dustinchen26.github.io/nrCellId
 
 15
 
-PCI
+NR PCI Calculator
 
 https://github.com/dustinchen26/PCI
 
@@ -130,7 +129,7 @@ https://dustinchen26.github.io/PCI
 
 16
 
-slice
+Network Slicing sst / sd / sNSSAI calculator
 
 https://github.com/dustinchen26/slice
 
@@ -154,7 +153,7 @@ https://dustinchen26.github.io/parse_cu
 
 19
 
-IMSI
+Qcom IMSI calculator
 
 https://github.com/dustinchen26/IMSI
 
@@ -162,7 +161,7 @@ https://dustinchen26.github.io/IMSI
 
 20
 
-S_criteria
+S_criteria calculator
 
 https://github.com/dustinchen26/S_criteria
 
@@ -170,7 +169,7 @@ https://dustinchen26.github.io/S_criteria
 
 21
 
-PUSCH_power
+PUSCH_power_calculator
 
 https://github.com/dustinchen26/PUSCH_power
 
@@ -178,7 +177,7 @@ https://dustinchen26.github.io/PUSCH_power
 
 22
 
-PUCCH_power
+PUCCH_power_calculator
 
 https://github.com/dustinchen26/PUCCH_power
 
@@ -186,7 +185,7 @@ https://dustinchen26.github.io/PUCCH_power
 
 23
 
-PRACH_power
+PRACH_power_calculator
 
 https://github.com/dustinchen26/PRACH_power
 
@@ -194,7 +193,7 @@ https://dustinchen26.github.io/PRACH_power
 
 24
 
-RACH_Msg3_power
+RACH_Msg3_power_calculator
 
 https://github.com/dustinchen26/RACH_Msg3_power
 
@@ -234,29 +233,21 @@ https://dustinchen26.github.io/ssb_advance_xml
 
 29
 
-Watt_dBm_converter
-
-https://github.com/dustinchen26/dBm_W
-
-https://dustinchen26.github.io/dBm_W
-
-30
-
-parse_CSI
+Qcom [0xB896]CSI P1 Payload Parser
 
 https://github.com/dustinchen26/parse_CSI
 
 https://dustinchen26.github.io/parse_CSI
 
-31
+30
 
-NR_Tput_advance
+NR Throughput Advanced Calculator
 
 https://github.com/dustinchen26/NR_Tput_advance
 
 https://dustinchen26.github.io/NR_Tput_advance
 
-32
+31
 
 gscn_draw
 
@@ -264,11 +255,18 @@ https://github.com/dustinchen26/gscn_draw
 
 https://dustinchen26.github.io/gscn_draw
 
-33
+32
 
-bw_wireshark
+Wireshark supportedBandListNR Parser
 
 https://github.com/dustinchen26/bw_wireshark
 
 https://dustinchen26.github.io/bw_wireshark
 
+33
+
+QXDM Paging ng-5G-S-TMSI Converter
+
+https://github.com/dustinchen26/paging
+
+https://dustinchen26.github.io/paging
