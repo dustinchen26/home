@@ -7,6 +7,7 @@ https://dustinchen26.github.io/home
 https://www.linkedin.com/in/dustin0206 
 
 ## NR Tool development
+
 1
 
 ssb_calculate_basic
@@ -270,3 +271,12 @@ QXDM Paging ng-5G-S-TMSI Converter
 https://github.com/dustinchen26/paging
 
 https://dustinchen26.github.io/paging
+
+34
+
+ASTRI [bbuiolog] SNR, RSSI Calculator
+
+https://github.com/dustinchen26/power
+
+https://dustinchen26.github.io/power
+
