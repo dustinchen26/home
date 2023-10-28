@@ -98,7 +98,7 @@ https://dustinchen26.github.io/bw
 
 12
 
-parse_du_Tput_BLER_MCS
+parse_du_Tput_BLER_MCS_python
 
 https://github.com/dustinchen26/bler
 
@@ -138,7 +138,7 @@ https://dustinchen26.github.io/slice
 
 17
 
-parse_du_Tput_BLER_MCS
+parse_du_Tput_BLER_MCS_1UE
 
 https://github.com/dustinchen26/parse_du
 
@@ -280,3 +280,10 @@ https://github.com/dustinchen26/power
 
 https://dustinchen26.github.io/power
 
+35
+
+parse_du_Tput_BLER_MCS_multi_UE
+
+https://github.com/dustinchen26/parse_du2
+
+https://dustinchen26.github.io/parse_du2
