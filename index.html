@@ -75,6 +75,7 @@
     <li>
       <strong>Professional skills</strong>
       <ul>
+        <li>2018~2023 More than 5 years of LTE/NR protocol software development experience </li>
         <li>familiar with 3GPP protocol NR NAS / RRC / RDCP / RLC / MAC / PHY & LTE / WCDMA / GSM </li>
         <li>familiar with Mathlab, C, python programming, HTML JavaScript, linux, script, git ....</li>
         <li>familiar with Qcom tool, ex: QXDM, QCAT, QRCT....</li>
@@ -82,6 +83,7 @@
         <li>familiar with ORAN end-to-end setup and verification (5G coreNetwork)-(CU,DU)-(RU)-(UE)</li>
         <li>developed the 3GPP NR calculation tool => design the algorithm to calculate (gscn, absFreqPointA, absArfcnPointA, absFreqSsb, absArfcnSsb, dlEarfcn, nDlCenterFreq, Kssb, offsetToPointA) which can be used in DU xml</li>
         <li>developed the 3GPP NR gNB algorithm & feature</li>
+		<li>developed scripts to check CU, DU software versions and GDB commands to analyze crash dumps </li>
       </ul>
     </li><br>
 
@@ -885,8 +887,10 @@
 			<ul>
 				<li>
 在本論文中，我們研究了併行無線資訊與能量傳輸廣播系統的波束成型設計。我們所考慮的場景是一個多天線的基地台同時傳送資訊訊號與能量訊號給多個單天線的接收機。各個接收機只會執行能量採集或資訊解碼其中一種，不會同時執行兩種功能。我們的目標是在滿足各個資訊接收機最低訊雜比的服務品質以及個別傳送天線功率限制條件下，設計波束成型向量用以最大化傳送到所有能量接收機的加權功率總和。與以往只考慮天線的總功率限制條件有所不同，本論文還考慮了個別天線功率限制，因為在現實情況下每根天線的功率放大器都有它的線性工作區間，當輸入功率過高，輸出功率會達到飽和，操作在飽和區將會導致信號的高失真和非線性。我們將訊息和能量傳輸的波束成型設計作為非凸二次約束二次規劃的問題並透過應用半定鬆弛技術來獲得問題的解。
-In this thesis, we study the beamforming design of a simultaneous wireless information and power transfer (SWIPT) broadcast system. In our scenario, we consider a multi-antenna base station (BS) which sends wireless information and energy signals to multiple single-antenna receivers. Each receiver performs either information decoding (ID) or energy harvesting (EH), but not both. Our goal is to design the beamforming vectors to maximize the weighted sum power transferred to all EH receivers subject to a given set of minimum signal-to-interference-plus-noise ratio (SINR) constraints at different ID receivers and per-antenna power constraints at transmitter. In contrast to conventional sum power constraint across all transmit antennas, per-antenna power constraints (PAPCs) are used in this thesis because of the implementation in reality and the limit of the linear region of a power amplifier equipped with each antenna. The output power will saturate when the input power is too high. Operation in the saturation region, however, implies high distortions and nonlinearities that are introduced to the signals. We formulate the joint information and energy transmit beamforming design as a non-convex quadratically constrained quadratic program (QCQP) and obtain the solution by applying the semidefinite relaxation (SDR) technique.
 				</li>
+				<li>
+In this thesis, we study the beamforming design of a simultaneous wireless information and power transfer (SWIPT) broadcast system. In our scenario, we consider a multi-antenna base station (BS) which sends wireless information and energy signals to multiple single-antenna receivers. Each receiver performs either information decoding (ID) or energy harvesting (EH), but not both. Our goal is to design the beamforming vectors to maximize the weighted sum power transferred to all EH receivers subject to a given set of minimum signal-to-interference-plus-noise ratio (SINR) constraints at different ID receivers and per-antenna power constraints at transmitter. In contrast to conventional sum power constraint across all transmit antennas, per-antenna power constraints (PAPCs) are used in this thesis because of the implementation in reality and the limit of the linear region of a power amplifier equipped with each antenna. The output power will saturate when the input power is too high. Operation in the saturation region, however, implies high distortions and nonlinearities that are introduced to the signals. We formulate the joint information and energy transmit beamforming design as a non-convex quadratically constrained quadratic program (QCQP) and obtain the solution by applying the semidefinite relaxation (SDR) technique.
+				</li>				
 			</ul>				
 		</li>
       </ul>
