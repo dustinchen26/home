@@ -6,7 +6,7 @@ https://dustinchen26.github.io/home
 
 https://www.linkedin.com/in/dustin0206 
 
-## NR Tool development
+## Developed the 3GPP NR Tool
 
 1
 
@@ -319,5 +319,13 @@ Maple_parse_du_Tput_BLER_MCS
 https://github.com/compalmaple/parse_du
 
 https://compalmaple.github.io/parse_du
+
+40
+
+Maple_tool
+
+https://github.com/dustinchen26/maple
+
+https://dustinchen26.github.io/maple/
 
 
