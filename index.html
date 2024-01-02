@@ -18,9 +18,15 @@
 	    color: red; /* 文字變成紅色 */
 	}
 		
-    a {
-      color: blue;
-    }
+	a {
+	  color: blue;
+	  text-decoration: none; /* Remove default underline */
+	}
+
+	a:hover {
+	  text-decoration: underline; /* Add underline on hover */
+	}
+
 
     .table-container {
       margin-left: 60px;
@@ -323,7 +329,7 @@
       <strong> Developed the 3GPP NR gNB algorithm & feature</strong>
 	    <ul>
 			<li>
-				<span class="blue-text">NR CSI </span>
+				<span class="red-text">NR CSI </span>
 				<ul>
 					<li>
 					let UE to report the RI/PMI/CQI and gNB schedules downlink data with attributes such as modulation, code rate, transmission layers... to improve DL throughput.
@@ -331,7 +337,7 @@
 				</ul>	
 			</li>
 			<li>			
-				<span class="blue-text">adaptive DL MCS based on BLER & CSI </span>
+				<span class="red-text">adaptive DL MCS based on BLER & CSI </span>
 				<ul>
 					<li>
 					gNB can dynamically adjust DL MCS. For example: when the channel condition is good, gNB can schedule high MCS to improve throughput. When the channel condition is poor, the gNB can lower the MCS to overcome the poor channel condition to improve DL throughput..
@@ -339,7 +345,7 @@
 				</ul>								
 			</li>
 			<li>			
-				<span class="blue-text">adaptive UL MCS based on BLER & SINR </span>
+				<span class="red-text">adaptive UL MCS based on BLER & SINR </span>
 				<ul>
 					<li>
 					gNB can dynamically adjust DL MCS. For example: when the channel condition is in good, gNB can schedule high MCS to improve throughput. When the channel condition is poor, the gNB can lower the MCS to overcome the poor channel condition to improve UL throughput..
@@ -347,7 +353,7 @@
 				</ul>					
  			</li>	
 			<li>
-				<span class="blue-text">PUCCH power control (ex: TPC Command for Scheduled PUCCH) </span>
+				<span class="red-text">PUCCH power control (ex: TPC Command for Scheduled PUCCH) </span>
 				<ul>
 					<li>
 					gNB can dynamically adjust the PUCCH TX power to let UE to transmit the SR, HARQ-ACK, or CSI to improve UL throughput.
@@ -355,7 +361,7 @@
 				</ul>					
 			</li>
 			<li>
-				<span class="blue-text">PUSCH closed loop power control (ex: TPC Command for Scheduled PUSCH) </span>
+				<span class="red-text">PUSCH closed loop power control (ex: TPC Command for Scheduled PUSCH) </span>
 				<ul>
 					<li>
 					gNB can dynamically adjust the PUSCH TX power to allow the UE to transmit uplink data to improve UL throughput.
@@ -1061,7 +1067,7 @@
         </td>
         <td>
           <p style="margin-top: 0; margin-bottom: 0"><a href="https://dustinchen26.github.io/maple"
-              target="_blank">https://dustinchen26.github.io/maple/</a></p>
+              target="_blank">https://dustinchen26.github.io/maple</a></p>
         </td>
       </tr>
     </table>
