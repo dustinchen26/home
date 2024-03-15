@@ -7,6 +7,13 @@ https://dustinchen26.github.io/home
 https://www.linkedin.com/in/dustin0206 
 
 ## Developed the 3GPP NR Tool
+item
+
+Tool description
+
+github
+
+online calculator
 
 1
 
@@ -326,6 +333,38 @@ Maple_tool
 
 https://github.com/dustinchen26/maple
 
-https://dustinchen26.github.io/maple/
+https://dustinchen26.github.io/maple
 
+41
 
+Parse_RSRP_SINR_PUSCH-power
+
+https://github.com/dustinchen26/parse_RSRP
+
+https://dustinchen26.github.io/parse_RSRP
+
+42
+
+parse_du_multi_UE_Time_Each_Tput_BLER_percent_MCS
+
+https://github.com/dustinchen26/parse_du5
+
+https://dustinchen26.github.io/parse_du5
+
+43
+
+pci_lock_info_EFS
+
+https://github.com/dustinchen26/pci_lock_info
+
+https://dustinchen26.github.io/pci_lock_info
+
+44
+
+parse_RSRP_draw
+
+https://github.com/dustinchen26/parse_RSRP_draw
+
+https://dustinchen26.github.io/parse_RSRP_draw
+
+NR Tool development description
