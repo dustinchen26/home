@@ -367,4 +367,11 @@ https://github.com/dustinchen26/parse_RSRP_draw
 
 https://dustinchen26.github.io/parse_RSRP_draw
 
-NR Tool development description
+45
+
+parse_Ping_draw
+
+https://github.com/dustinchen26/parse_ping
+
+https://dustinchen26.github.io/parse_ping
+
