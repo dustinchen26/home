@@ -423,3 +423,19 @@ https://github.com/dustinchen26/parse_dlbler_draw
 
 https://dustinchen26.github.io/parse_dlbler_draw
 
+52
+
+parse_ulbler_draw_upload
+
+https://github.com/dustinchen26/parse_ulbler_draw_upload
+
+https://dustinchen26.github.io/parse_ulbler_draw_upload
+
+53
+
+parse_du_multi_UE_Time_Each_Tput_BLER_MCS_upload
+
+https://github.com/dustinchen26/parse_du4_upload
+
+https://dustinchen26.github.io/parse_du4_upload
+
