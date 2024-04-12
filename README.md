@@ -446,3 +446,12 @@ draw_total_Tput_BLER
 https://github.com/dustinchen26/draw_Tput_BLER
 
 https://dustinchen26.github.io/draw_Tput_BLER
+
+55
+
+draw_total_Tput_BLER_upload
+
+https://github.com/dustinchen26/draw_Tput_BLER_upload
+
+https://dustinchen26.github.io/draw_Tput_BLER_upload
+
