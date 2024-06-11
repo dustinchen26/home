@@ -15,9 +15,17 @@ github
 
 online calculator
 
+0
+
+ssb_calculator (Python)
+
+https://github.com/dustinchen26/ssb_calculator
+
+https://github.com/dustinchen26/ssb_calculator
+
 1
 
-ssb_calculate_basic
+ssb_calculate_basic (html)
 
 https://github.com/dustinchen26/ssb_calculate
 
@@ -455,3 +463,26 @@ https://github.com/dustinchen26/draw_Tput_BLER_upload
 
 https://dustinchen26.github.io/draw_Tput_BLER_upload
 
+56
+
+cce_index_calculator
+
+https://github.com/dustinchen26/cce_index
+
+https://dustinchen26.github.io/cce_index
+
+57
+
+time_calculator
+
+https://github.com/dustinchen26/time_calculator
+
+https://dustinchen26.github.io/time_calculator
+
+58
+
+unix_time_converter
+
+https://github.com/dustinchen26/unix_time
+
+https://dustinchen26.github.io/unix_time
