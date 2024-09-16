@@ -2,18 +2,13 @@
 
 https://dustinchen26.github.io/home
 
-## Linkedin
-
-https://www.linkedin.com/in/dustin0206 
-
 ## Developed the 3GPP NR Tool
-item
+Developed the Compal Maple Tool
 
-Tool description
+https://dustinchen26.github.io/maple
 
-github
 
-online calculator
+Developed the 3GPP NR Tool
 
 0
 
@@ -29,7 +24,7 @@ ssb_calculate_basic (html)
 
 https://github.com/dustinchen26/ssb_calculate
 
-https://dustinchen26.github.io/ssb_calculate
+https://dustinchen26.github.io/ssb_calculate/
 
 2
 
@@ -518,4 +513,14 @@ parse_ping_fail
 https://github.com/dustinchen26/parse_ping_fail
 
 https://dustinchen26.github.io/parse_ping_fail
+
+63
+
+NR_gNBId_CellId_nRPCI_nRTCI_calculator
+
+https://github.com/dustinchen26/id
+
+https://dustinchen26.github.io/id
+
+
 
