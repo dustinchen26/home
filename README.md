@@ -9,6 +9,10 @@ https://dustinchen26.github.io/maple
 
 
 ● Developed the 3GPP NR Tool
+item
+Tool description
+github
+online calculator
 
 0
 
@@ -530,4 +534,11 @@ https://github.com/dustinchen26/1_1_2_id
 
 https://dustinchen26.github.io/1_1_2_id
 
+65
+
+2CU_2DU_2RU_nRTCI_calculator
+
+https://github.com/dustinchen26/2_2_2_id
+
+https://dustinchen26.github.io/2_2_2_id
 
