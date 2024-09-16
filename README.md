@@ -3,12 +3,12 @@
 https://dustinchen26.github.io/home
 
 ## Developed the 3GPP NR Tool
-Developed the Compal Maple Tool
+● Developed the Compal Maple Tool
 
 https://dustinchen26.github.io/maple
 
 
-Developed the 3GPP NR Tool
+● Developed the 3GPP NR Tool
 
 0
 
@@ -522,5 +522,12 @@ https://github.com/dustinchen26/id
 
 https://dustinchen26.github.io/id
 
+64
+
+1CU_1DU_2RU_nRTCI_calculator
+
+https://github.com/dustinchen26/1_1_2_id
+
+https://dustinchen26.github.io/1_1_2_id
 
 
