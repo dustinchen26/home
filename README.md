@@ -542,3 +542,11 @@ https://github.com/dustinchen26/2_2_2_id
 
 https://dustinchen26.github.io/2_2_2_id
 
+66
+
+Ping_mifi_graph
+
+https://github.com/dustinchen26/draw_mifi_ping
+
+https://dustinchen26.github.io/draw_mifi_ping
+
