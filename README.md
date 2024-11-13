@@ -9,9 +9,13 @@ https://dustinchen26.github.io/maple
 
 
 ● Developed the 3GPP NR Tool
+
 item
+
 Tool description
+
 github
+
 online calculator
 
 0
@@ -549,4 +553,12 @@ Ping_mifi_graph
 https://github.com/dustinchen26/draw_mifi_ping
 
 https://dustinchen26.github.io/draw_mifi_ping
+
+67
+
+mifi_RSRP_SINR
+
+https://github.com/dustinchen26/mifi_RSRP_SINR
+
+https://dustinchen26.github.io/mifi_RSRP_SINR
 
