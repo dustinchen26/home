@@ -10,6 +10,7 @@ https://dustinchen26.github.io/maple
 
 ● Developed the 3GPP NR Tool
 
+
 item
 
 Tool description
@@ -562,3 +563,10 @@ https://github.com/dustinchen26/mifi_RSRP_SINR
 
 https://dustinchen26.github.io/mifi_RSRP_SINR
 
+68
+
+parse_cu_draw
+
+https://github.com/dustinchen26/parse_cu_draw
+
+https://dustinchen26.github.io/parse_cu_draw
