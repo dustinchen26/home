@@ -10,7 +10,6 @@ https://dustinchen26.github.io/maple
 
 ● Developed the 3GPP NR Tool
 
-
 item
 
 Tool description
@@ -570,3 +569,27 @@ parse_cu_draw
 https://github.com/dustinchen26/parse_cu_draw
 
 https://dustinchen26.github.io/parse_cu_draw
+
+69
+
+parse_cu_upload
+
+https://github.com/dustinchen26/parse_cu_upload
+
+https://dustinchen26.github.io/parse_cu_upload
+
+70
+
+parse_cu_draw_upload
+
+https://github.com/dustinchen26/parse_cu_draw_upload
+
+https://dustinchen26.github.io/parse_cu_draw_upload
+
+71
+
+QA_RSRP_SINR
+
+https://github.com/dustinchen26/QA_RSRP_SINR
+
+https://dustinchen26.github.io/QA_RSRP_SINR
