@@ -10,6 +10,7 @@ https://dustinchen26.github.io/maple
 
 ● Developed the 3GPP NR Tool
 
+
 item
 
 Tool description
@@ -625,3 +626,11 @@ QA_Tput_excel
 https://github.com/dustinchen26/QA_Tput_excel
 
 https://dustinchen26.github.io/QA_Tput_excel
+
+76
+
+mifi_RSRP_SINR_split
+
+https://github.com/dustinchen26/mifi_RSRP_SINR_split
+
+https://dustinchen26.github.io/mifi_RSRP_SINR_split
