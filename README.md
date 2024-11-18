@@ -3,13 +3,13 @@
 https://dustinchen26.github.io/home
 
 ## Developed the 3GPP NR Tool
+
 ● Developed the Compal Maple Tool
 
 https://dustinchen26.github.io/maple
 
 
 ● Developed the 3GPP NR Tool
-
 
 item
 
@@ -634,3 +634,20 @@ mifi_RSRP_SINR_split
 https://github.com/dustinchen26/mifi_RSRP_SINR_split
 
 https://dustinchen26.github.io/mifi_RSRP_SINR_split
+
+77
+
+parse_cu_excel
+
+https://github.com/dustinchen26/parse_cu_excel
+
+https://dustinchen26.github.io/parse_cu_excel
+
+78
+
+parse_cu_excel_upload
+
+https://github.com/dustinchen26/parse_cu_excel_upload
+
+https://dustinchen26.github.io/parse_cu_excel_upload
+
