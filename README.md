@@ -8,7 +8,6 @@ https://dustinchen26.github.io/home
 
 https://dustinchen26.github.io/maple
 
-
 ● Developed the 3GPP NR Tool
 
 item
