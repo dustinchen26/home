@@ -722,3 +722,11 @@ https://github.com/dustinchen26/draw_Tput_BLER_upload_excel
 
 https://dustinchen26.github.io/draw_Tput_BLER_upload_excel
 
+88
+
+mifi_watch_RSRP_SINR
+
+https://github.com/dustinchen26/mifi_watch_RSRP_SINR
+
+https://dustinchen26.github.io/mifi_watch_RSRP_SINR
+
