@@ -740,9 +740,17 @@ https://dustinchen26.github.io/mifi_watch_RSRP_SINR_upload
 
 90
 
-mifi_watch_RSRP_SINR_upload
+replace_du
 
 https://github.com/dustinchen26/replace_du
 
 https://dustinchen26.github.io/replace_du
+
+91
+
+mifi_watch_RSRP_SINR_upload_filter
+
+https://github.com/dustinchen26/mifi_watch_RSRP_SINR_upload_filter
+
+https://dustinchen26.github.io/mifi_watch_RSRP_SINR_upload_filter
 
