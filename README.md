@@ -4,17 +4,9 @@ https://dustinchen26.github.io/home
 
 ## Developed the 3GPP NR Tool
 
-● Developed the Compal Maple Tool
+Compal Maple Tool
 
 https://dustinchen26.github.io/maple
-
-● Developed the 3GPP NR Tool
-
-item
-
-Tool description
-
-github
 
 online calculator
 
@@ -753,4 +745,13 @@ mifi_watch_RSRP_SINR_upload_filter
 https://github.com/dustinchen26/mifi_watch_RSRP_SINR_upload_filter
 
 https://dustinchen26.github.io/mifi_watch_RSRP_SINR_upload_filter
+
+92
+
+QXDM_PDSCH_parser
+
+https://github.com/dustinchen26/QXDM_PDSCH_parser
+
+https://dustinchen26.github.io/QXDM_PDSCH_parser
+
 
