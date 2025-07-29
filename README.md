@@ -754,4 +754,10 @@ https://github.com/dustinchen26/QXDM_PDSCH_parser
 
 https://dustinchen26.github.io/QXDM_PDSCH_parser
 
+93
 
+NR Transport Block Size (TBS) Calculator
+
+https://github.com/dustinchen26/TBS
+
+https://dustinchen26.github.io/TBS
