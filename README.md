@@ -8,6 +8,7 @@ Compal Maple Tool
 
 https://dustinchen26.github.io/maple
 
+
 online calculator
 
 0
@@ -761,3 +762,11 @@ NR Transport Block Size (TBS) Calculator
 https://github.com/dustinchen26/TBS
 
 https://dustinchen26.github.io/TBS
+
+94
+
+QXDM_PDSCH_MCS_parser
+
+https://github.com/dustinchen26/QXDM_PDSCH_MCS
+
+https://dustinchen26.github.io/QXDM_PDSCH_MCS
