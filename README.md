@@ -770,3 +770,11 @@ QXDM_PDSCH_MCS_parser
 https://github.com/dustinchen26/QXDM_PDSCH_MCS
 
 https://dustinchen26.github.io/QXDM_PDSCH_MCS
+
+95
+
+ssb_pointA_fix
+
+https://github.com/dustinchen26/ssb_pointA_fix
+
+https://dustinchen26.github.io/ssb_pointA_fix
