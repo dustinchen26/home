@@ -90,6 +90,20 @@
         </li>
       </ul>
     </li><br>
+
+
+    <li>
+      <strong>Professional Summary</strong>
+      <ul>
+        <li>Highly skilled 5G/ORAN System Engineer with hands-on experience in 5G NR gNB software development, debugging, and protocol verification (3GPP R15–R18).</li>
+        <li>Proven expertise in system integration, automation scripting, and performance optimization across Compal Cedar, Maple, and OAI platforms.</li>
+        <li>Strong proficiency in C, Python, MATLAB, and Linux-based environments with in-depth knowledge of RAN, PHY, MAC, and RRC layers.</li>
+        <li>Delivered multiple successful E2E O-RAN deployments and debugging projects.</li>
+        <li>Developed a comprehensive OAI automation toolchain, including automated dependency installation, cross-platform builds, Docker packaging, and orchestration scripts for core, CU/DU, and RF simulators, enabling rapid E2E testbed setup.</li>
+        <li>Performed detailed 3GPP SA specification analysis to derive configuration fixes and parameter mappings, applied them to gNB DU XML, and validated results using Wireshark & log.</li>
+        <li>Reviewed customer issue logs, including Wireshark and QXDM traces, analyzed problems, investigated root causes, and applied configuration changes to successfully validate solutions.</li>
+      </ul>
+    </li><br>
 		
     <li>
       <strong>My Work Experience<br></strong>
@@ -270,6 +284,9 @@
     <li>
       <strong>My Professional skills</strong>
       <ul>
+        <li>OAI automation: build / dockerize / deploy / run scripts (WSL & Ubuntu), E2E testbed provisioning.</li>
+        <li>5G SA 3GPP spec → config change → on-device & simulator verification (QXDM, Wireshark, PHY tests).</li>	 
+        <li>Developed the CSC Y423 Compal Maple Automated Run Script. Developed automated scripts capable of restarting CU, DU, PHY, and IPC upon crash, resolving GV card issues that previously required multiple reboots, significantly improving system reliability.</li>	
         <li>3GPP protocol 5G NR, 4G LTE NAS / RRC / RDCP / RLC / MAC / PHY
 			<ul>
 				<li>developed the NR gNB algorithm and feature, ex: CSI, adaptive MCS, PUCCH power control, PUSCH closed loop power control</li>
@@ -283,8 +300,8 @@
         <li>MTK tool, ex: ELT, LV ...</li>
         <li>ORAN End-to-End setup and verification:
 			<ul>
-				<li>(5G coreNetwork)-(CU,DU)-(RU)-(UE)
-				</li>
+				<li>(5G coreNetwork)-(CU,DU)-(RU)-(UE)</li>
+				<li>(Compal) gNB Cedar 1190 parameters changed & verification</li>
 			</ul>
 		</li>
         <li>ORAN system integration. 
@@ -338,13 +355,28 @@
     </li><br>
 
     <li>
-      <strong>(My work) fix 5G ORAN software issue</strong>
+      <strong>(My work) Fix Compal 5G ORAN & Integrated Small Cell Issue</strong>
       <ul>
+        <li> Resolved customer-reported issue. Diagnosed and resolved high BLER in TDD slot pattern DDDSUUDSUU by identifying a TB Size mismatch between UE QXDM and gNB Wireshark logs, pinpointing the gNB misconfiguration as the root cause. Implemented analysis-driven solution, significantly improving link reliability.</li> 
+        <li> Resolved customer-reported issue where the UE initially sent SIP messages but stopped after switching to another base station. The root cause was identified: the TransportLayerAddress in PDUSessionResourceSetupResponse did not match the actual source address—it was incorrectly configured.</li>
+        <li> Resolved parameter errors in Compal_Cedar_n78_BW_100_90_80_60_50_40_30_20 (ssb, pointA...) that prevented registration. KH verified the fix successfully.</li>
         <li> Fixed the Kssb calculation bug in the code and solved the problem of UE failed to camp SA n78 BW 60,40,30 & CBRS BW 40. </li>
         <li> Fixed the MTPL=0 power limitation issue (ex: p_NR_FR1 = 0) and allow UE to use maximum power to transmit uplink data according to spec. </li>
         <li> Fixed the dciFmt0.paddingbits bug and solved the problem of UE failed to camp SA n78 BW 20. </li>
       </ul>
     </li><br>		
+
+    <li>
+      <strong>(My work) Develop the build & run script for OpenAir Interface (OAI) system</strong>
+      <ul>
+        <li> (Build OAI code) Developed an automated Bash script for building and deploying OAI 5G stack with CU/DU, VNF/PNF, NR UE, RF simulator, and T tracer, streamlining dependency installation, environment setup, and F1AP/FAPI packet capture, improving testbed efficiency and reliability. </li>
+        <li> (Install OAI core) Developed an end-to-end automated script to deploy OAI 5G NR SA Core (CN5G) with Docker, handling dependencies, cross-platform setup (Ubuntu & WSL), configuration, and image download, improving deployment efficiency and reducing setup errors. </li>
+        <li> ex: Run "Monolithic gNB" script </li>
+        <li> ex: Run "Split gNB-CU/DU" script </li>
+        <li> ex: Run "Split gNB-VNF/PNF" script </li>
+      </ul>
+    </li><br>
+
 	
     <li>
       <strong>(My work) Developed the 3GPP 5G NR gNB algorithm & feature</strong>
