@@ -4,10 +4,14 @@ https://dustinchen26.github.io/home
 
 ## Developed the 3GPP NR Tool
 
-Compal Maple Tool
+// Compal Maple Tool
 
 https://dustinchen26.github.io/maple
 
+
+// (My work) Developed the 3GPP NR Tool
+
+github
 
 online calculator
 
@@ -778,3 +782,11 @@ ssb_pointA_fix
 https://github.com/dustinchen26/ssb_pointA_fix
 
 https://dustinchen26.github.io/ssb_pointA_fix
+
+96
+
+QXDM_CSI_to_Wireshark_FAPI_Converter
+
+https://github.com/dustinchen26/QXDM_CSI_to_FAPI_CSI
+
+https://dustinchen26.github.io/QXDM_CSI_to_FAPI_CSI/
