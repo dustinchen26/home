@@ -2,12 +2,62 @@
 
 https://dustinchen26.github.io/home
 
+## (My work) 5G OAI(OpenAirInterface) auto script & tool development
+
+1. build_oai.sh
+
+Auto-build OAI UHD and gNB/NR UE script.
+
+https://github.com/dustinchen26/OAI_OK
+
+2. install_core.sh
+
+Auto script to install Docker and set up the OAI 5G NR SA core network.
+
+https://github.com/dustinchen26/OAI_OK
+
+3. run_core.sh
+
+Auto script to start, stop, and monitor the OAI CN5G Docker core network
+
+https://github.com/dustinchen26/OAI_OK
+
+4. rub_gnb.sh & run_ue.sh
+
+(monolithic gNB) Auto script to run monolithic gNB
+
+https://github.com/dustinchen26/OAI_OK
+
+5. run_cu_F1AP & run_du_F1AP.sh & run_ue_F1AP.sh
+
+(gNB-CU-DU split) Auto script to run gNB-CU-DU split
+
+https://github.com/dustinchen26/OAI_OK
+
+6. run_pnf_FAPI.sh & run_vnf_FAPI.sh & run_ue_FAPI.sh
+
+(gNB-PNF-VNF split) Auto script to run gNB-PNF-VNF split
+
+https://github.com/dustinchen26/OAI_OK
+
+7. OAI SSB calculator
+
+Calculate the OAI SSB offset from SSB ARFCN, PointA ARFCN
+
+https://dustinchen26.github.io/oai_ssb
+
+8. wireshark_SIB1_to_OAI_conf
+
+wireshark_SIB1_to_OAI_conf
+
+https://dustinchen26.github.io/wireshark_SIB1_to_OAI_conf
+
+
 ## Developed the 3GPP NR Tool
 
 // Compal Maple Tool
 
 https://dustinchen26.github.io/maple
-
 
 // (My work) Developed the 3GPP NR Tool
 
