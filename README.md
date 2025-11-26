@@ -4,6 +4,39 @@ https://dustinchen26.github.io/home
 
 ## (My work) 5G OAI(OpenAirInterface) auto script & tool development
 
+(My work) Compal 5G Cedar Integrated Small Cell (ISC)(整合小型基站)
+1.
+
+QXDM_CSI_to_Wireshark_FAPI_Converter
+
+https://github.com/dustinchen26/QXDM_CSI_to_FAPI_CSI
+
+https://dustinchen26.github.io/QXDM_CSI_to_FAPI_CSI/
+
+2.
+
+Wireshark_FAPI_CSI_to_QXDM_CSI
+
+https://github.com/dustinchen26/FAPI_CSI_to_QXDM_CSI
+
+https://dustinchen26.github.io/FAPI_CSI_to_QXDM_CSI
+
+3.
+
+wireshark_SIB1_to_OAI_conf
+
+https://github.com/dustinchen26/wireshark_SIB1_to_OAI_conf
+
+https://dustinchen26.github.io/wireshark_SIB1_to_OAI_conf
+
+
+(My work) 5G OAI(OpenAirInterface) auto script & tool development
+item
+
+Tool description
+
+link
+
 1. build_oai.sh
 
 Auto-build OAI UHD and gNB/NR UE script.
@@ -52,14 +85,57 @@ wireshark_SIB1_to_OAI_conf
 
 https://dustinchen26.github.io/wireshark_SIB1_to_OAI_conf
 
+9. ssb_pointA_fix
 
-## Developed the 3GPP NR Tool
+OAI conf absFreqSsb & absFreqPointA to nDlCenterFreq
 
-// Compal Maple Tool
+https://dustinchen26.github.io/ssb_pointA_fix
+
+
+(My work) Developed the Compal Maple Tool
+item
+
+Tool description
+
+link
+
+1
+
+Compal Maple Tool
 
 https://dustinchen26.github.io/maple
 
-// (My work) Developed the 3GPP NR Tool
+
+(My work) Developed the RAN gNB script
+item
+
+Tool description
+
+github
+
+1
+
+parse_du_stats.sh
+
+https://github.com/dustinchen26/parse_du_stats.sh
+
+2
+
+check_error.sh
+
+https://github.com/dustinchen26/check_error
+
+3
+
+check_process.sh
+
+https://github.com/dustinchen26/check_process.sh
+
+
+(My work) Developed the 3GPP NR Tool
+item
+
+Tool description
 
 github
 
@@ -824,28 +900,3 @@ QXDM_PDSCH_MCS_parser
 https://github.com/dustinchen26/QXDM_PDSCH_MCS
 
 https://dustinchen26.github.io/QXDM_PDSCH_MCS
-
-95
-
-ssb_pointA_fix
-
-https://github.com/dustinchen26/ssb_pointA_fix
-
-https://dustinchen26.github.io/ssb_pointA_fix
-
-96
-
-QXDM_CSI_to_Wireshark_FAPI_Converter
-
-https://github.com/dustinchen26/QXDM_CSI_to_FAPI_CSI
-
-https://dustinchen26.github.io/QXDM_CSI_to_FAPI_CSI/
-
-97
-
-Wireshark_FAPI_CSI_to_QXDM_CSI
-
-https://github.com/dustinchen26/FAPI_CSI_to_QXDM_CSI
-
-https://dustinchen26.github.io/FAPI_CSI_to_QXDM_CSI
-
