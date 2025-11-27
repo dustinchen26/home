@@ -5,6 +5,14 @@ https://dustinchen26.github.io/home
 ## (My work) 5G OAI(OpenAirInterface) auto script & tool development
 
 (My work) Compal 5G Cedar Integrated Small Cell (ISC)(整合小型基站)
+item
+
+Tool description
+
+github
+
+online calculator
+
 1.
 
 QXDM_CSI_to_Wireshark_FAPI_Converter
@@ -28,6 +36,22 @@ wireshark_SIB1_to_OAI_conf
 https://github.com/dustinchen26/wireshark_SIB1_to_OAI_conf
 
 https://dustinchen26.github.io/wireshark_SIB1_to_OAI_conf
+
+4.
+
+QXDM_0xB821_0xB950_to_OAI_conf
+
+https://github.com/dustinchen26/QXDM_0xB821_0xB950_to_OAI_conf
+
+https://dustinchen26.github.io/QXDM_0xB821_0xB950_to_OAI_conf
+
+5.
+
+confdb_v2.xml_To_OAI_conf
+
+https://github.com/dustinchen26/confdb_v2.xml_To_OAI_conf
+
+https://dustinchen26.github.io/confdb_v2.xml_To_OAI_conf
 
 
 (My work) 5G OAI(OpenAirInterface) auto script & tool development
@@ -90,6 +114,12 @@ https://dustinchen26.github.io/wireshark_SIB1_to_OAI_conf
 OAI conf absFreqSsb & absFreqPointA to nDlCenterFreq
 
 https://dustinchen26.github.io/ssb_pointA_fix
+
+10. confdb_v2.xml_To_OAI_conf
+
+Input confdb_v2.xml, output OAI conf
+
+https://dustinchen26.github.io/confdb_v2.xml_To_OAI_conf
 
 
 (My work) Developed the Compal Maple Tool
